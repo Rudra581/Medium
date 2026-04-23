@@ -7,10 +7,10 @@
     "nodejs_compat"
   ],
   "vars": {
-    "JWT_SECRET": "my-variable",
-    "DATABASE_URL": "postgresql://neondb_owner:npg_h8XbeTnqg6zK@ep-nameless-thunder-ade7gio0-pooler.c-2.us-east-1.aws.neon.tech/neondb?sslmode=require",
-    "IMGBB_API_KEY": "f137a5b442a6e5c15303b1678dee3eaf",
-    "OPENAI_API_KEY": "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"
+    "JWT_SECRET": "",
+    "DATABASE_URL": "",
+    "IMGBB_API_KEY": "",
+    "OPENAI_API_KEY": ""
   },
   // "kv_namespaces": [
   //   {
